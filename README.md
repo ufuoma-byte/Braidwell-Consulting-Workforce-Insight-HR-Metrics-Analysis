@@ -1,4 +1,6 @@
 *Braidwell Consulting Workforce Insight: HR Metrics Analysis*
+
+
 High attrition isn’t just a number—it’s a signal of underlying structural flaws.
 
 PROJECT REPORT: Optimizing Workforce Retention and Equity through Data Analytics
